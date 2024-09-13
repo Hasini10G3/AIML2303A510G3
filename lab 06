@@ -922,9 +922,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "z3iWrycTuMWv",
-        "outputId": "32e91ff2-25fa-4343-9712-514e651a00fc"
+        "outputId": "a5c08df3-dccb-452e-8759-8a61e5ea0703"
       },
-      "execution_count": 32,
+      "execution_count": 37,
       "outputs": [
         {
           "output_type": "stream",
@@ -932,12 +932,12 @@
           "text": [
             "              precision    recall  f1-score   support\n",
             "\n",
-            "           0       0.91      0.90      0.90       141\n",
-            "           1       0.91      0.92      0.92       159\n",
+            "           0       0.96      0.91      0.93       141\n",
+            "           1       0.92      0.96      0.94       159\n",
             "\n",
-            "    accuracy                           0.91       300\n",
-            "   macro avg       0.91      0.91      0.91       300\n",
-            "weighted avg       0.91      0.91      0.91       300\n",
+            "    accuracy                           0.94       300\n",
+            "   macro avg       0.94      0.94      0.94       300\n",
+            "weighted avg       0.94      0.94      0.94       300\n",
             "\n"
           ]
         }
